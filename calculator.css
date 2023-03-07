@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background:  rgb(108, 108, 234);
+    background-image:  linear-gradient(to right,rgb(168, 83, 141), rgb(117, 27, 133), rgb(108, 108, 234));
     font-family: sans-serif;
     outline: none;
 }
